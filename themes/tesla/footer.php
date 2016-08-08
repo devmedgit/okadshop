@@ -135,7 +135,7 @@
       </section><!--/ #services  -->
 
       <div class="container" id="copyright">
-        &copy; OKADSHOP 2004-<?= date("Y");  ?>. <?=l("Tous droits réservés", "tesla");?>
+       <a href="http://okadshop.com/"> &copy; OKADSHOP 2004-<?= date("Y");  ?>. <?=l("Tous droits réservés", "tesla");?></a>
       </div>
 
 
